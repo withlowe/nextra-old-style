@@ -1,4 +1,5 @@
 export default {
+  github: '',
   prevLinks: true,
   nextLinks: true,
   footer: false,
